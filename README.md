@@ -18,5 +18,4 @@ At this point, this page is a static html/css based website. I'd like to grow th
 
 ##Known Bugs 
 
-This appiclation is not 100% mobile responsive and needs some fixing. 
-There is currently no back end to this page. 
+This application was meant to be deployed to Heroku. However it currently lacks middleware (e.g. Rack) for Heroku to identify a 'build pack', and configuration of file paths for working links in a production environment. 
